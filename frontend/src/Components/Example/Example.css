@@ -1,13 +1,4 @@
 /* Black and Gray Color Scheme */
-:root {
-                --color-black: #000000;
-                --color-dark-gray: #1a1a1a;
-                --color-gray: #333333;
-                --color-medium-gray: #555555;
-                --color-light-gray: #888888;
-                --color-lighter-gray: #cccccc;
-                --color-white: #ffffff;
-}
 
 body {
                 background-color: var(--color-dark-gray);
